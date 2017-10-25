@@ -96,14 +96,11 @@ for bug fixes
 
 ### AUDIENCE
 
-#### `usr:`
+#### `usr:` or `user:`
 for final users (UI changes). The only audience that are changelogged at the moment.
 
 #### `dev:`
 for developpers (API changes, refactors...)
-
-#### `usr:` or `user:`
-for final users (UI changes)
 
 #### `pkg:`
 packaging changes
